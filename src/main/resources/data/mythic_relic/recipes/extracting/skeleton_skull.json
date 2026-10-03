@@ -1,0 +1,6 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:skeleton_skull" },
+  "result": { "item": "mythic_relic:death_trace", "count": 3 },
+  "duration": 200
+}

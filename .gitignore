@@ -1,0 +1,32 @@
+# ---- Gradle ----
+.gradle/
+build/
+
+# ---- Forge / Minecraft 开发环境 ----
+run/
+run-data/
+src/generated/
+
+# ---- IDE ----
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.metadata/
+.classpath
+.project
+*.launch
+bin/
+out/
+eclipse/
+
+# ---- 操作系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 本地工具 / 私人记录（不入库）----
+.workbuddy/
+.workbuddy-ai/

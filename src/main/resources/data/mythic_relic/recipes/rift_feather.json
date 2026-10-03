@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EFE",
+    "FNF",
+    "EFE"
+  ],
+  "key": {
+    "E": { "item": "minecraft:ender_pearl" },
+    "F": { "item": "minecraft:feather" },
+    "N": { "item": "mythic_relic:space_crystal" }
+  },
+  "result": {
+    "item": "mythic_relic:rift_feather",
+    "count": 1
+  }
+}

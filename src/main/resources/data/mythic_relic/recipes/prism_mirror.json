@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" }
+  ],
+  "result": {
+    "item": "mythic_relic:prism_mirror",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "mythic_relic:hegni_altar",
+  "biomes": "#mythic_relic:has_structure/hegni_altar",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

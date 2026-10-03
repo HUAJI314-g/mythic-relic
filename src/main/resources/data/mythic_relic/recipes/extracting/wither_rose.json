@@ -1,0 +1,9 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:wither_rose" },
+  "results": [
+    { "item": "mythic_relic:death_fragment", "count": 3 },
+    { "item": "mythic_relic:toxic_fragment", "count": 3 }
+  ],
+  "duration": 400
+}

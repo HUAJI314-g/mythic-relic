@@ -1,0 +1,11 @@
+{
+  "structures": [
+    { "structure": "mythic_relic:hegni_altar", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 12,
+    "salt": 1738291043
+  }
+}

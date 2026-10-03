@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" },
+    { "item": "mythic_relic:chaos_fragment" }
+  ],
+  "result": {
+    "item": "mythic_relic:chaos_crystal",
+    "count": 1
+  }
+}

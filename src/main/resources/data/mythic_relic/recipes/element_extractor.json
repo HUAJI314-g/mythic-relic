@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OPO",
+    "OHO"
+  ],
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "P": { "item": "minecraft:piston" },
+    "H": { "item": "minecraft:hopper" }
+  },
+  "result": {
+    "item": "mythic_relic:element_extractor",
+    "count": 1
+  }
+}

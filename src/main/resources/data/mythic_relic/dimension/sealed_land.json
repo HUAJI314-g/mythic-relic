@@ -1,0 +1,16 @@
+{
+  "type": "mythic_relic:sealed_land",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "minecraft:obsidian", "height": 1 }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

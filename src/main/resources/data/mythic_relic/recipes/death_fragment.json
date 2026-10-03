@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" },
+    { "item": "mythic_relic:death_trace" }
+  ],
+  "result": {
+    "item": "mythic_relic:death_fragment",
+    "count": 1
+  }
+}

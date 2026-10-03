@@ -1,0 +1,8 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:fermented_spider_eye" },
+  "results": [
+    { "item": "mythic_relic:toxic_fragment", "count": 1 }
+  ],
+  "duration": 280
+}

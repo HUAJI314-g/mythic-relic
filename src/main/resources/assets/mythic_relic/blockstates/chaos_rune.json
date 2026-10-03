@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "glow=0": { "model": "mythic_relic:block/chaos_rune" },
+    "glow=1": { "model": "mythic_relic:block/chaos_rune_dim" },
+    "glow=2": { "model": "mythic_relic:block/chaos_rune_lit" }
+  }
+}

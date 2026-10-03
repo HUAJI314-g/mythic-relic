@@ -1,0 +1,8 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:spider_eye" },
+  "results": [
+    { "item": "mythic_relic:toxic_trace", "count": 2 }
+  ],
+  "duration": 200
+}

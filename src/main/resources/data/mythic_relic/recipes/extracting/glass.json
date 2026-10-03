@@ -1,0 +1,11 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": [
+    { "tag": "forge:glass/colorless" },
+    { "tag": "forge:glass_panes/colorless" }
+  ],
+  "results": [
+    { "item": "mythic_relic:prism_trace", "count": 2 }
+  ],
+  "duration": 160
+}

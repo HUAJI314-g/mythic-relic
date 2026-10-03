@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "mythic_relic:block/element_extractor_side",
+    "down": "mythic_relic:block/element_extractor_top",
+    "up": "mythic_relic:block/element_extractor_top",
+    "north": "mythic_relic:block/element_extractor_front",
+    "south": "mythic_relic:block/element_extractor_side",
+    "east": "mythic_relic:block/element_extractor_side",
+    "west": "mythic_relic:block/element_extractor_side"
+  }
+}

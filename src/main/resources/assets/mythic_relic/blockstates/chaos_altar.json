@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "mythic_relic:block/chaos_altar" },
+    "lit=true":  { "model": "mythic_relic:block/chaos_altar_active" }
+  }
+}

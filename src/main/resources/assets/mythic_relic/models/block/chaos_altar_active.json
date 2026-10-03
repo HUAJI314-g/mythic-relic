@@ -1,0 +1,33 @@
+{
+  "textures": {
+    "particle": "mythic_relic:block/chaos_altar_side_active",
+    "side": "mythic_relic:block/chaos_altar_side_active",
+    "top": "mythic_relic:block/chaos_altar_top_active"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 4, 16],
+      "faces": {
+        "down":  { "texture": "#side", "uv": [0, 0, 16, 16], "cullface": "down" },
+        "up":    { "texture": "#side", "uv": [0, 0, 16, 16] },
+        "north": { "texture": "#side", "uv": [0, 12, 16, 16], "cullface": "north" },
+        "south": { "texture": "#side", "uv": [0, 12, 16, 16], "cullface": "south" },
+        "west":  { "texture": "#side", "uv": [0, 12, 16, 16], "cullface": "west" },
+        "east":  { "texture": "#side", "uv": [0, 12, 16, 16], "cullface": "east" }
+      }
+    },
+    {
+      "from": [1, 4, 1],
+      "to": [15, 7, 15],
+      "faces": {
+        "down":  { "texture": "#side", "uv": [1, 1, 15, 15] },
+        "up":    { "texture": "#top",  "uv": [1, 1, 15, 15] },
+        "north": { "texture": "#side", "uv": [1, 13, 15, 16] },
+        "south": { "texture": "#side", "uv": [1, 13, 15, 16] },
+        "west":  { "texture": "#side", "uv": [1, 13, 15, 16] },
+        "east":  { "texture": "#side", "uv": [1, 13, 15, 16] }
+      }
+    }
+  ]
+}

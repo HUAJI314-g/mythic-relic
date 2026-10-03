@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" },
+    { "item": "mythic_relic:space_fragment" }
+  ],
+  "result": {
+    "item": "mythic_relic:space_crystal",
+    "count": 1
+  }
+}

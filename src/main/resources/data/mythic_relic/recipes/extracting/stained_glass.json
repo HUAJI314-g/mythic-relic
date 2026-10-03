@@ -1,0 +1,11 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": [
+    { "tag": "forge:stained_glass" },
+    { "tag": "forge:stained_glass_panes" }
+  ],
+  "results": [
+    { "item": "mythic_relic:prism_fragment", "count": 1 }
+  ],
+  "duration": 240
+}

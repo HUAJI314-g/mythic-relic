@@ -1,0 +1,9 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:ender_pearl" },
+  "results": [
+    { "item": "mythic_relic:chaos_trace", "count": 1 },
+    { "item": "mythic_relic:space_trace", "count": 2 }
+  ],
+  "duration": 240
+}

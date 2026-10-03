@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "TTT",
+    "T T",
+    "TTT"
+  ],
+  "key": {
+    "T": { "item": "mythic_relic:toxic_fragment" }
+  },
+  "result": {
+    "item": "mythic_relic:poison_ring",
+    "count": 1
+  }
+}

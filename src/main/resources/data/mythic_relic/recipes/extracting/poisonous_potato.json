@@ -1,0 +1,8 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:poisonous_potato" },
+  "results": [
+    { "item": "mythic_relic:toxic_trace", "count": 1 }
+  ],
+  "duration": 200
+}

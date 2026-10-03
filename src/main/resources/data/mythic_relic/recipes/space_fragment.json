@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" },
+    { "item": "mythic_relic:space_trace" }
+  ],
+  "result": {
+    "item": "mythic_relic:space_fragment",
+    "count": 1
+  }
+}

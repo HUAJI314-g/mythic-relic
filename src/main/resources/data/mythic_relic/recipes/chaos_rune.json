@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GCG",
+    "GGG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gilded_blackstone" },
+    "C": { "item": "mythic_relic:chaos_crystal" }
+  },
+  "result": {
+    "item": "mythic_relic:chaos_rune",
+    "count": 8
+  }
+}

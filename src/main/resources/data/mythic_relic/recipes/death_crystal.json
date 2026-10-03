@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" },
+    { "item": "mythic_relic:death_fragment" }
+  ],
+  "result": {
+    "item": "mythic_relic:death_crystal",
+    "count": 1
+  }
+}

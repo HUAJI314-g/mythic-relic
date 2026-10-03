@@ -1,0 +1,9 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:chorus_fruit" },
+  "results": [
+    { "item": "mythic_relic:chaos_trace", "count": 2 },
+    { "item": "mythic_relic:space_trace", "count": 1 }
+  ],
+  "duration": 240
+}

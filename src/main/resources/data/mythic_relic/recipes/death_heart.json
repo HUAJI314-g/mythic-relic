@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DND",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "mythic_relic:death_crystal" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": {
+    "item": "mythic_relic:death_heart",
+    "count": 1
+  }
+}

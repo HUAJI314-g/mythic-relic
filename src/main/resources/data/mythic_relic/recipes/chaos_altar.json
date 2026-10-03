@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OCO",
+    "OOO"
+  ],
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "C": { "item": "mythic_relic:chaos_crystal" }
+  },
+  "result": {
+    "item": "mythic_relic:chaos_altar",
+    "count": 1
+  }
+}

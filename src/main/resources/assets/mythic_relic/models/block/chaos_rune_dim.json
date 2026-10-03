@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "mythic_relic:block/chaos_rune_top_dim",
+    "bottom": "mythic_relic:block/chaos_rune_side_dim",
+    "side": "mythic_relic:block/chaos_rune_side_dim"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" },
+    { "item": "mythic_relic:prism_fragment" }
+  ],
+  "result": {
+    "item": "mythic_relic:prism_crystal",
+    "count": 1
+  }
+}

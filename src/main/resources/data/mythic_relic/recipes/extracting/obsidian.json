@@ -1,0 +1,6 @@
+{
+  "type": "mythic_relic:element_extractor",
+  "ingredient": { "item": "minecraft:obsidian" },
+  "result": { "item": "mythic_relic:chaos_trace", "count": 1 },
+  "duration": 200
+}

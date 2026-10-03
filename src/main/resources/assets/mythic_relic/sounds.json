@@ -1,0 +1,208 @@
+{
+  "syllable/0": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:mob/guardian/land_idle1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/guardian/land_idle2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/guardian/land_idle3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/guardian/land_idle4",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/1": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:mob/endermen/hit1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/hit2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/hit3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/hit4",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/2": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:entity/shulker/ambient1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/ambient2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/ambient3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/ambient4",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/ambient5",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/ambient6",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/ambient7",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/3": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:mob/irongolem/throw",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/4": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:entity/shulker/hurt1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/hurt2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/hurt3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:entity/shulker/hurt4",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/5": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:mob/irongolem/hit1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/irongolem/hit2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/irongolem/hit3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/irongolem/hit4",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/6": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:mob/endermen/idle1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/idle2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/idle3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/idle4",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/endermen/idle5",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "syllable/7": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue",
+    "sounds": [
+      {
+        "name": "minecraft:mob/warden/attack_impact_1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/warden/attack_impact_2",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "roar/long": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue_roar",
+    "sounds": [
+      {
+        "name": "minecraft:mob/enderdragon/growl1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/enderdragon/growl2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/enderdragon/growl3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/enderdragon/growl4",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "roar/short": {
+    "subtitle": "subtitles.mythic_relic.dragon_tongue_roar",
+    "sounds": [
+      {
+        "name": "minecraft:mob/enderdragon/hit1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/enderdragon/hit2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/enderdragon/hit3",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:mob/enderdragon/hit4",
+        "attenuation_distance": 48
+      }
+    ]
+  }
+}
